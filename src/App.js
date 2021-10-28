@@ -6,7 +6,6 @@ import YieldFarm from './contracts/YieldFarm.json'
 import Navbar from './Navbar'
 import Main from './Main'
 import 'bootstrap/dist/css/bootstrap.css'
-import logo from './logo.svg';
 import './App.css';
 
 
